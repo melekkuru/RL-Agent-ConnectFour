@@ -1,6 +1,5 @@
 # RL-Agent-ConnectFour
 
-```markdown
 # RL Agent: Connect Four
 
 This project implements a Reinforcement Learning (RL) agent to play the classic Connect Four game. The agent is trained using algorithms like Monte Carlo and SARSA to learn optimal strategies for this strategic board game.
