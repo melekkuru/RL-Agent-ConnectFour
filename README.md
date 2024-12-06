@@ -1,4 +1,3 @@
-# RL-Agent-ConnectFour
 
 # RL Agent: Connect Four
 
